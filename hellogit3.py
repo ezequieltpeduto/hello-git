@@ -1,1 +1,1 @@
-print("Independiente campeón")
+print("Independiente campeón copa apertura 2026")
